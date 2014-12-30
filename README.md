@@ -1,4 +1,3 @@
-LICEcap
-=======
+# LICEcap Icon
 
-Icon for LICEcap.
+![](LICEcap.png)
