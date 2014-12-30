@@ -1,0 +1,4 @@
+LICEcap
+=======
+
+Icon for LICEcap.
