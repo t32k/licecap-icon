@@ -1,3 +1,3 @@
 # LICEcap Icon
 
-![](LICEcap.png)
+![](preview.png)
